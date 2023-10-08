@@ -75,7 +75,7 @@ Simulated attacks include but are not limited to:
 
 ## Contributing
 
-We welcome contributions! If you'd like to contribute to this project, please review our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+I welcome contributions! If you'd like to contribute to this project, please message me https://www.linkedin.com/comm/in/mahmoud-diaa-cybersamurai
 
 ## License
 
